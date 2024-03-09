@@ -18,8 +18,8 @@ print(B+k)
 
 k=("___♕___♕___♕___♕___♕___♕___♕___♕___♕___♕___♕___♕___♕___♕___♕")
 
-token=input('ENTER TOKEN :')
-ID=input('ENTER ID :')
+token=input('7089074318:AAHKYk8jmhTcsBa4wbdKHo8qo2I3ONzjinY')
+ID=input('6997944818')
 print(C+k)
 for P in file.readlines():
 	start_num = 1
